@@ -1,4 +1,4 @@
-# billity
+# 
 
 1. Unpack the project;
 2. Create database "CREATE DATABASE DB_NAME;" and configure Database Details (make database connection by adding database name, username and password in config file of your project)
